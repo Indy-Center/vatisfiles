@@ -535,6 +535,7 @@
           "id": "b0d539d4-7e14-4e4f-bcc5-700a3c96ac80",
           "name": "5",
           "airportConditions": "ILS RWY 5 APCH IN USE. LANDING AND DEPARTING RWY 5.",
+          "notams": "ALL AC AT TERMINAL CTC GROUND CTRL PRIOR TO PUSHBACK.",
           "template": "WEST VIRGINIA INTERNATIONAL YEAGER AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false
@@ -544,6 +545,7 @@
           "id": "642369c8-eafe-4000-99b0-d0f68387546b",
           "name": "23",
           "airportConditions": "ILS RWY 23 APCH IN USE. LANDING AND DEPARTING RWY 23.",
+          "notams": "ALL AC AT TERMINAL CTC GROUND CTRL PRIOR TO PUSHBACK.",
           "template": "WEST VIRGINIA INTERNATIONAL YEAGER AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false

@@ -803,7 +803,7 @@
       "presets": [
         {
           "id": "f91e6f1e-df31-4d49-8c22-ad1bf1b7a38c",
-          "name": "10L/R",
+          "name": "East",
           "airportConditions": "ILS, RWY 10L, AND, ILS, RWY 10R, SIMUL APCH IN USE.",
           "notams": "BIRD ACVTY VC CMH. READBACK ALL RWY HOLD SHORT INSTRUCTIONS.",
           "template": "JOHN GLENN COLUMBUS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
@@ -813,29 +813,9 @@
         },
         {
           "id": "a50d5f3f-4b29-4da7-8006-25bc07353e1c",
-          "name": "28L/R",
+          "name": "West",
           "airportConditions": "ILS, RWY 28L, AND, ILS, RWY 28R, SIMUL APCH IN USE.",
           "notams": "BIRD ACVTY VC CMH. READBACK ALL RWY HOLD SHORT INSTRUCTIONS.",
-          "template": "JOHN GLENN COLUMBUS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
-          "externalGenerator": {
-            "enabled": false
-          }
-        },
-        {
-          "id": "1705c86d-e78c-4abd-bce9-f231b44fad8a",
-          "name": "10L ONLY",
-          "airportConditions": "ILS, RWY 10L APCH IN USE.",
-          "notams": "RWY 10R, 28L CLSD. TWY B1, C5, C6, C8, D6, R1, R2 CLSD, TWY B CLSD EAST OF, TWY B2 . TWY D1 CLSD SOUTH OF, TWY D . TWY D CLSD BTWN TWY D5 AND TWY H . TWY B CLSD BTWN TWY R4 AND TWY R5 . TWY C1 CLSD BTWN RWY, 28L AND TWY C . ILS RWY 10L GS OTS, RWY 10R, 10L, 28R, 28L RVR OTS. BIRD ACVTY VC CMH. READBACK ALL RWY HOLD SHORT INSTRUCTIONS.",
-          "template": "JOHN GLENN COLUMBUS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
-          "externalGenerator": {
-            "enabled": false
-          }
-        },
-        {
-          "id": "804a6534-8979-4f58-a28d-ab385589a1d8",
-          "name": "28R ONLY",
-          "airportConditions": "ILS, RWY 28R APCH IN USE.",
-          "notams": "RWY 10R, 28L CLSD. TWY B1, C5, C6, C8, D6, R1, R2 CLSD, TWY B CLSD EAST OF, TWY B2 . TWY D1 CLSD SOUTH OF, TWY D . TWY D CLSD BTWN TWY D5 AND TWY H . TWY B CLSD BTWN TWY R4 AND TWY R5 . TWY C1 CLSD BTWN RWY, 28L AND TWY C . ILS RWY 10L GS OTS, RWY 10R, 10L, 28R, 28L RVR OTS. BIRD ACVTY VC CMH. READBACK ALL RWY HOLD SHORT INSTRUCTIONS.",
           "template": "JOHN GLENN COLUMBUS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false

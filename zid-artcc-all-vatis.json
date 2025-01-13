@@ -2,7 +2,7 @@
   "name": "ZID ARTCC (All)",
   "id": "de94303b-6bc0-4281-9797-6bd375c6e8eb",
    "updateURL":"https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/zid-artcc-all-vatis.json",
-  "updateSerial":2024122401,
+  "updateSerial":2025011301,
   "composites": [
     {
       "id": "f60cffab-90e7-4c68-afef-1179ad73cc4a",
@@ -4022,7 +4022,7 @@
       "presets": [
         {
           "id": "751c5eb6-b213-4d72-ab0e-76a8c6f51efe",
-          "name": "5L/R",
+          "name": "23L/R",
           "airportConditions": "EXPECT ILS OR RNAV APCH. LANDING AND DEPARTING RWY 23L AND 23R.",
           "notams": "RWY 23R CLSD TO HEAVY ACFT OPS. CTC GND CON FOR CLNC PRIOR TO PUSHBACK ON CARGO RAMP 2.",
           "template": "RICKENBACKER TOWER ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
@@ -4032,7 +4032,7 @@
         },
         {
           "id": "26895d46-9497-418d-87c1-a915601848f4",
-          "name": "23L/R",
+          "name": "5L/R",
           "airportConditions": "EXPECT ILS OR RNAV APCH. LANDING AND DEPARTING RWY 5L AND 5R.",
           "notams": "RWY 5L CLSD TO HEAVY ACFT OPS. CTC GND CON FOR CLNC PRIOR TO PUSHBACK ON CARGO RAMP 2.",
           "template": "RICKENBACKER TOWER ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",

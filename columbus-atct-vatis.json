@@ -2,7 +2,7 @@
   "name": "Columbus+ ATCT",
   "id": "c265973d-2ef8-4a59-99f1-9381d3a309bb",
   "updateURL":"https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/columbus-atct-vatis.json",
-  "updateSerial":2025040601,
+  "updateSerial":2025040602,
   "composites": [
     {
       "id": "f60cffab-90e7-4c68-afef-1179ad73cc4a",
@@ -295,6 +295,7 @@
           "template": "JOHN GLENN COLUMBUS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false
+            }
           },
           {
           "id": "f91e6f1e-df31-4d49-8c22-ad1bf1b7a38c",

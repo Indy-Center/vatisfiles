@@ -295,6 +295,25 @@
           "template": "JOHN GLENN COLUMBUS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false
+          },
+          {
+          "id": "f91e6f1e-df31-4d49-8c22-ad1bf1b7a38c",
+          "name": "East Runway 10L Closed",
+          "airportConditions": "ILS, RWY 10R, APCH IN USE.",
+          "notams": "RWY 10L, 28R CLSD. BIRD ACVTY VC CMH. READBACK ALL RWY HOLD SHORT INSTRUCTIONS.",
+          "template": "JOHN GLENN COLUMBUS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
+          "externalGenerator": {
+            "enabled": false
+          }
+        },
+        {
+          "id": "a50d5f3f-4b29-4da7-8006-25bc07353e1c",
+          "name": "West Runway 28R Closed",
+          "airportConditions": "ILS, RWY 28L, APCH IN USE.",
+          "notams": "RWY 10L, 28R CLSD. BIRD ACVTY VC CMH. READBACK ALL RWY HOLD SHORT INSTRUCTIONS.",
+          "template": "JOHN GLENN COLUMBUS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
+          "externalGenerator": {
+            "enabled": false
           }
         }
       ],

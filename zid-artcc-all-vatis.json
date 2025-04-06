@@ -4885,16 +4885,16 @@
       "contractions": [],
       "airportConditionDefinitions": [],
       "notamDefinitions": [
-        {
+         {
           "description": "RAMP OPEN",
           "ordinal": 1,
-          "text": "CVG RAMP CONTROL IN USE. CONTACT RAMP CONTROL ON 130.9 PRIOR TO PUSH.",
+          "text": "CVG RAMP CONTROL IN USE. ACFT AT AIR CARRIER TERMINAL CTC RAMP 130.90 PRIOR TO PUSH. ACFT AT CARGO RAMP CTC RAMP 130.50 PRIOR TO PUSH.",
           "enabled": false
         },
         {
           "description": "RAMP CLOSED",
           "ordinal": 2,
-          "text": "CVG RAMP TOWER CLOSED CONTACT GROUND AT AIR CARRIER SPOTS 2, 3, 10, DHL SPOTS 52, 54, 55, AMAZON SPOT 75.",
+          "text": "CVG RAMP TOWER CLOSED. CTC ATC AT AIR CARRIER SPOTS 2, 3, 10, DHL SPOTS 52, 54, 55, AMAZON SPOT 75.",
           "enabled": false
         },
         {

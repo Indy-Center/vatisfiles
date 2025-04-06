@@ -295,6 +295,7 @@
           "template": "JOHN GLENN COLUMBUS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false
+            }
           },
           {
           "id": "f91e6f1e-df31-4d49-8c22-ad1bf1b7a38c",

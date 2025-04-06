@@ -2978,6 +2978,18 @@
       "airportConditionDefinitions": [],
       "notamDefinitions": [
         {
+          "description": "RAMP OPEN",
+          "ordinal": 1,
+          "text": "UPS RAMP CONTROL IN USE. ACFT AT UPS RAMP 1 THRU 11 CTC RAMP 129.95 PRIOR TO PUSH.",
+          "enabled": false
+        },
+        {
+          "description": "RAMP CLOSED",
+          "ordinal": 2,
+          "text": "UPS RAMP CONTROL CLOSED.",
+          "enabled": false
+        },
+        {
           "description": "17L/35R CLSD",
           "ordinal": 1,
           "text": "RWY 17L/35R CLSD.",

@@ -820,7 +820,26 @@
           "externalGenerator": {
             "enabled": false
           }
-        }
+        },
+        {
+          "id": "f91e6f1e-df31-4d49-8c22-ad1bf1b7a38c",
+          "name": "East Runway 10L Closed",
+          "airportConditions": "ILS, RWY 10R, APCH IN USE.",
+          "notams": "RWY 10L, 28R CLSD. BIRD ACVTY VC CMH. READBACK ALL RWY HOLD SHORT INSTRUCTIONS.",
+          "template": "JOHN GLENN COLUMBUS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
+          "externalGenerator": {
+            "enabled": false
+          }
+        },
+        {
+          "id": "a50d5f3f-4b29-4da7-8006-25bc07353e1c",
+          "name": "West Runway 28R Closed",
+          "airportConditions": "ILS, RWY 28L, APCH IN USE.",
+          "notams": "RWY 10L, 28R CLSD. BIRD ACVTY VC CMH. READBACK ALL RWY HOLD SHORT INSTRUCTIONS.",
+          "template": "JOHN GLENN COLUMBUS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
+          "externalGenerator": {
+            "enabled": false
+          }
       ],
       "contractions": [],
       "airportConditionDefinitions": [],
@@ -4034,6 +4053,26 @@
           "id": "26895d46-9497-418d-87c1-a915601848f4",
           "name": "5L/R",
           "airportConditions": "EXPECT ILS OR RNAV APCH. LANDING AND DEPARTING RWY 5L AND 5R.",
+          "notams": "RWY 5L CLSD TO HEAVY ACFT OPS. CTC GND CON FOR CLNC PRIOR TO PUSHBACK ON CARGO RAMP 2.",
+          "template": "RICKENBACKER TOWER ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
+          "externalGenerator": {
+            "enabled": false
+          }
+        },
+        {
+          "id": "751c5eb6-b213-4d72-ab0e-76a8c6f51efe",
+          "name": "23L - Runway 23R Closed",
+          "airportConditions": "EXPECT ILS OR RNAV APCH. LANDING AND DEPARTING RWY 23L.",
+          "notams": "RWY 23R CLSD TO HEAVY ACFT OPS. CTC GND CON FOR CLNC PRIOR TO PUSHBACK ON CARGO RAMP 2.",
+          "template": "RICKENBACKER TOWER ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
+          "externalGenerator": {
+            "enabled": false
+          }
+        },
+        {
+          "id": "26895d46-9497-418d-87c1-a915601848f4",
+          "name": "5R - Runway 5L Closed",
+          "airportConditions": "EXPECT ILS OR RNAV APCH. LANDING AND DEPARTING RWY 5R.",
           "notams": "RWY 5L CLSD TO HEAVY ACFT OPS. CTC GND CON FOR CLNC PRIOR TO PUSHBACK ON CARGO RAMP 2.",
           "template": "RICKENBACKER TOWER ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {

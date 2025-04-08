@@ -48,7 +48,7 @@
           "description": "RAMP CLOSED",
           "ordinal": 2,
           "text": "UPS RAMP CONTROL CLOSED.",
-          "enabled": false
+          "enabled": true
         },
         {
           "description": "WINDSHEAR ADZYS",

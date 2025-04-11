@@ -1,0 +1,11 @@
+{
+  "name": "Test ATCT",
+  "id": "0f90640a-7619-4972-8eb2-2313c1715103",
+  "updateURL": "https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/louisville-atct-vatis.json",
+<<<<<<< HEAD
+  "updateSerial": 3939393939,
+=======
+  "updateSerial": 2025041101,
+>>>>>>> 1d8ca6e (Update serial numbers in changed files)
+  "composites": []
+}

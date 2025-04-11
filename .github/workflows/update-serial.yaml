@@ -1,0 +1,36 @@
+name: Update Serial Number
+
+on:
+  push:
+    branches:
+      - auto-update-serial
+    paths:
+      - "**.json"
+
+jobs:
+  update-serial:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Make script executable
+        run: chmod +x scripts/update-serial.sh
+
+      - name: Update Serial Numbers
+        id: update
+        run: |
+          CHANGES_MADE=$(./scripts/update-serial.sh)
+          echo "changes_made=$CHANGES_MADE" >> $GITHUB_OUTPUT
+
+      - name: Commit changes
+        if: steps.update.outputs.changes_made == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update serial numbers in changed files"
+          git push

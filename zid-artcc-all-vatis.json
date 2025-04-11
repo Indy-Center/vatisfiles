@@ -2,7 +2,7 @@
   "name": "ZID ARTCC (All)",
   "id": "de94303b-6bc0-4281-9797-6bd375c6e8eb",
    "updateURL":"https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/zid-artcc-all-vatis.json",
-  "updateSerial":2025060402,
+  "updateSerial":2025060403,
   "composites": [
     {
       "id": "f60cffab-90e7-4c68-afef-1179ad73cc4a",
@@ -5164,7 +5164,7 @@
         {
           "id": "941ed8d2-470b-48a9-960c-fd1c3ca43f2f",
           "name": "NORTH",
-          "airportConditions": "EXPECT ILS APPROACH TO RUNWAY 36R. ALL AIRCRAFT SHALL READBACK RUNWAY HOLD SHORT INSTRUCTION.",
+          "airportConditions": "EXPECT ILS APPROACH TO RWY 36R. ALL AIRCRAFT SHALL READBACK RUNWAY HOLD SHORT INSTRUCTION.",
           "notams": "RWY 18LC/36C CLSD. BIRD ACTIVITY VCNTY ARPT.",
           "template": "[FACILITY] ATIS INFO [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS]",
           "externalGenerator": {
@@ -5174,7 +5174,7 @@
         {
           "id": "47304c45-166d-44ef-b044-d0a1151e9621",
           "name": "SOUTH",
-          "airportConditions": "EXPECT ILS APPROACH TO RUNWAY 18L. ALL AIRCRAFT SHALL READBACK RUNWAY HOLD SHORT INSTRUCTION.",
+          "airportConditions": "EXPECT ILS APPROACH TO RWY 18L. ALL AIRCRAFT SHALL READBACK RUNWAY HOLD SHORT INSTRUCTION.",
           "notams": "RWY 18LC/36C CLSD. BIRD ACTIVITY VCNTY ARPT.",
           "template": "[FACILITY] ATIS INFO [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS]",
           "externalGenerator": {

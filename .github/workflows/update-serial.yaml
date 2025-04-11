@@ -14,9 +14,15 @@ jobs:
       contents: write
 
     steps:
+      - uses: actions/create-github-app-token@v1
+        id: app-token
+        with:
+          app-id: ${{ secrets.VERSION_UPDATE_BOT_ID }}
+          private-key: ${{ secrets.VERSION_UPDATE_BOT_SECRET }}
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ steps.app-token.outputs.token }}
 
       - name: Make script executable
         run: chmod +x scripts/update-serial.sh
@@ -30,7 +36,7 @@ jobs:
       - name: Commit changes
         if: steps.update.outputs.changes_made == 'true'
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "Version Update Bot[bot]"
+          git config user.email "version-update-bot@users.noreply.github.com"
           git commit -m "Update serial numbers in changed files"
           git push

@@ -9,6 +9,8 @@ on:
 
 jobs:
   update-serial:
+    # Skip running if the push was from our bot to avoid infinite loops
+    if: github.actor != 'version-update-bot[bot]'
     runs-on: ubuntu-latest
     permissions:
       contents: write

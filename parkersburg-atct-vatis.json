@@ -1,7 +1,7 @@
 {
   "name": "Parkersburg ATCT",
   "id": "8a62f058-50ae-4fbb-bebc-c7c250427351",
- "updateURL":"https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/parkersburg-atct-vatis.json",
+ "updateURL": "https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/parkersburg-atct-vatis.json",
  "updateSerial":2024122001,
   "composites": [
     {

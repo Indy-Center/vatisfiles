@@ -3,7 +3,7 @@ name: Update Serial Number
 on:
   push:
     branches:
-      - auto-update-serial
+      - main
     paths:
       - "**.json"
 

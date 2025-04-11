@@ -1,8 +1,8 @@
 {
-  "name": "ZID ARTCC (All) Update",
+  "name": "ZID ARTCC (All)",
   "id": "de94303b-6bc0-4281-9797-6bd375c6e8eb",
-  "updateURL": "https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/zid-artcc-all-vatis.json",
-  "updateSerial": 2025060404,
+   "updateURL":"https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/zid-artcc-all-vatis.json",
+  "updateSerial":2025060403,
   "composites": [
     {
       "id": "f60cffab-90e7-4c68-afef-1179ad73cc4a",
@@ -840,7 +840,7 @@
           "externalGenerator": {
             "enabled": false
           }
-        }
+          }
       ],
       "contractions": [],
       "airportConditionDefinitions": [],

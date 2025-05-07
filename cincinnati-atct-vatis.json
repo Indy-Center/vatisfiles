@@ -89,7 +89,13 @@
       "airportConditionDefinitions": [],
       "notamDefinitions": [
         {
-          "description": "RAMP OPEN",
+          "description": "COMBINED RAMP OPEN",
+          "ordinal": 1,
+          "text": "CVG RAMP CONTROL IN USE. ACFT AT AIR CARRIER TERMINAL OR CARGO RAMP CTC RAMP 130.90 PRIOR TO PUSH.",
+          "enabled": false
+        },
+		        {
+          "description": "SPLIT RAMP OPEN",
           "ordinal": 1,
           "text": "CVG RAMP CONTROL IN USE. ACFT AT AIR CARRIER TERMINAL CTC RAMP 130.90 PRIOR TO PUSH. ACFT AT CARGO RAMP CTC RAMP 130.50 PRIOR TO PUSH.",
           "enabled": false
@@ -393,25 +399,31 @@
       "airportConditionDefinitions": [],
       "notamDefinitions": [
         {
-          "description": "",
+          "description": "COMBINED RAMP OPEN",
           "ordinal": 1,
-          "text": "CVG RAMP CONTROL IN USE. CONTACT RAMP CONTROL ON 130.9 WHEN INSTRUCTED OR WHEN APPROACHING RAMP.",
+          "text": "CVG RAMP CONTROL IN USE. CTC RAMP CONTROL ON 130.90 WHEN INSTRUCTED OR WHEN APPROACHING RAMP.",
+          "enabled": false
+        },
+		{
+          "description": "SPLIT RAMP OPEN",
+          "ordinal": 1,
+          "text": "CVG RAMP CONTROL IN USE. UNLESS INSTRUCTED, CTC RAMP CONTROL ON 130.90 WHEN APPROACHING TERMINAL OR 130.50 WHEN APPROACHING CARGO RAMP.",
           "enabled": false
         },
         {
-          "description": "",
+          "description": "RAMP CLOSED",
           "ordinal": 2,
           "text": "RAMP CONTROL NOT IN USE.",
           "enabled": true
         },
         {
-          "description": "",
+          "description": "WINDSHEAR ADZYS",
           "ordinal": 3,
           "text": "WIND SHEAR ADZYS IN EFCT.",
           "enabled": false
         },
         {
-          "description": "",
+          "description": "SIGMETS/CWA",
           "ordinal": 4,
           "text": "SIGMETS/CWA IN EFCT. CTC FSS FOR INFO. ",
           "enabled": false

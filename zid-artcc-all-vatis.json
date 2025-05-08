@@ -5279,6 +5279,7 @@
         },
         {
           "description": "SIGMETS/CWA",
+          "text": "SIGMETS/CWA IN EFCT. CRC FSS FOR INFO.",
           "ordinal": 5,
           "text": "SIGMETS/CWA IN EFCT. CTC FSS FOR INFO.",
           "enabled": false

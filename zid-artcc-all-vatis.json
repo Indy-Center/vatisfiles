@@ -1,8 +1,8 @@
 {
   "name": "ZID ARTCC (All)",
   "id": "de94303b-6bc0-4281-9797-6bd375c6e8eb",
-   "updateURL":"https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/zid-artcc-all-vatis.json",
-  "updateSerial":2025060404,
+  "updateURL": "https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/zid-artcc-all-vatis.json",
+  "updateSerial": 2025060405,
   "composites": [
     {
       "id": "f60cffab-90e7-4c68-afef-1179ad73cc4a",
@@ -840,7 +840,7 @@
           "externalGenerator": {
             "enabled": false
           }
-          }
+        }
       ],
       "contractions": [],
       "airportConditionDefinitions": [],
@@ -2434,6 +2434,36 @@
           "name": "32/14",
           "airportConditions": "ILS RWY 32 APCH IN USE. CROSS RUNWAY OPERATIONS MAY BE IN EFFECT. ",
           "notams": "HIWAS.",
+          "template": "INDIANAPOLIS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
+          "externalGenerator": {
+            "enabled": false
+          }
+        },
+        {
+          "id": "ee8609ae-fe11-4285-9734-def7ac2e1470",
+          "name": "5R (Runway 05L Closed)",
+          "airportConditions": "ILS RWY 5R APCH IN USE. CROSS RUNWAY OPERATIONS MAY BE IN EFFECT.",
+          "notams": "RWY 05L/23R CLSD.",
+          "template": "INDIANAPOLIS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
+          "externalGenerator": {
+            "enabled": false
+          }
+        },
+        {
+          "id": "1a4a8860-0b14-448b-b4fc-6911f77fb369",
+          "name": "23L (Runway 23R Closed)",
+          "airportConditions": "ILS RWY 23L APCH IN USE. CROSS RUNWAY OPERATIONS MAY BE IN EFFECT. ",
+          "notams": "RWY 05L/23R CLSD.",
+          "template": "INDIANAPOLIS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
+          "externalGenerator": {
+            "enabled": false
+          }
+        },
+        {
+          "id": "1a4a8860-0b14-448b-b4fc-6911f77fb369",
+          "name": "32/14 (Runway 05L/23R Closed)",
+          "airportConditions": "ILS RWY 32 APCH IN USE. CROSS RUNWAY OPERATIONS MAY BE IN EFFECT. ",
+          "notams": "RWY 05L/23R CLSD.",
           "template": "INDIANAPOLIS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false
@@ -4915,7 +4945,7 @@
       "contractions": [],
       "airportConditionDefinitions": [],
       "notamDefinitions": [
-        {
+{
           "description": "COMBINED RAMP OPEN",
           "ordinal": 2,
           "text": "CVG RAMP CONTROL IN USE. ACFT AT AIR CARRIER TERMINAL OR CARGO RAMP CTC RAMP 130.90 PRIOR TO PUSH.",

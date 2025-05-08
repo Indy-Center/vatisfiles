@@ -1,8 +1,8 @@
 {
   "name": "Cincinnati+ ATCT",
   "id": "18a107ce-36f1-46d3-8921-ba121701e1eb",
-   "updateURL":"https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/cincinnati-atct-vatis.json",
-  "updateSerial":2025041102,
+  "updateURL": "https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/cincinnati-atct-vatis.json",
+  "updateSerial": 2025050800,
   "composites": [
     {
       "id": "a9d067bd-d593-427a-914c-88b3aad23498",
@@ -94,7 +94,7 @@
           "text": "CVG RAMP CONTROL IN USE. ACFT AT AIR CARRIER TERMINAL OR CARGO RAMP CTC RAMP 130.90 PRIOR TO PUSH.",
           "enabled": false
         },
-		        {
+        {
           "description": "SPLIT RAMP OPEN",
           "ordinal": 3,
           "text": "CVG RAMP CONTROL IN USE. ACFT AT AIR CARRIER TERMINAL CTC RAMP 130.90 PRIOR TO PUSH. ACFT AT CARGO RAMP CTC RAMP 130.50 PRIOR TO PUSH.",
@@ -404,7 +404,7 @@
           "text": "CVG RAMP CONTROL IN USE. CTC RAMP CONTROL ON 130.90 WHEN INSTRUCTED OR WHEN APPROACHING RAMP.",
           "enabled": false
         },
-		{
+        {
           "description": "SPLIT RAMP OPEN",
           "ordinal": 3,
           "text": "CVG RAMP CONTROL IN USE. UNLESS INSTRUCTED, CTC RAMP CONTROL ON 130.90 WHEN APPROACHING TERMINAL OR 130.50 WHEN APPROACHING CARGO RAMP.",

@@ -2,7 +2,7 @@
   "name": "ZID ARTCC (All)",
   "id": "de94303b-6bc0-4281-9797-6bd375c6e8eb",
   "updateURL": "https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/zid-artcc-all-vatis.json",
-  "updateSerial": 2025060405,
+  "updateSerial": 2025060406,
   "composites": [
     {
       "id": "f60cffab-90e7-4c68-afef-1179ad73cc4a",
@@ -4951,7 +4951,7 @@
           "text": "CVG RAMP CONTROL IN USE. ACFT AT AIR CARRIER TERMINAL OR CARGO RAMP CTC RAMP 130.90 PRIOR TO PUSH.",
           "enabled": false
         },
-		        {
+        {
           "description": "SPLIT RAMP OPEN",
           "ordinal": 3,
           "text": "CVG RAMP CONTROL IN USE. ACFT AT AIR CARRIER TERMINAL CTC RAMP 130.90 PRIOR TO PUSH. ACFT AT CARGO RAMP CTC RAMP 130.50 PRIOR TO PUSH.",
@@ -5253,13 +5253,13 @@
       "contractions": [],
       "airportConditionDefinitions": [],
       "notamDefinitions": [
-            {
+        {
           "description": "COMBINED RAMP OPEN",
           "ordinal": 2,
           "text": "CVG RAMP CONTROL IN USE. CTC RAMP CONTROL ON 130.90 WHEN INSTRUCTED OR WHEN APPROACHING RAMP.",
           "enabled": false
         },
-		{
+        {
           "description": "SPLIT RAMP OPEN",
           "ordinal": 3,
           "text": "CVG RAMP CONTROL IN USE. UNLESS INSTRUCTED, CTC RAMP CONTROL ON 130.90 WHEN APPROACHING TERMINAL OR 130.50 WHEN APPROACHING CARGO RAMP.",

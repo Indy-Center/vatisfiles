@@ -89,26 +89,32 @@
       "airportConditionDefinitions": [],
       "notamDefinitions": [
         {
-          "description": "RAMP OPEN",
-          "ordinal": 1,
+          "description": "COMBINED RAMP OPEN",
+          "ordinal": 2,
+          "text": "CVG RAMP CONTROL IN USE. ACFT AT AIR CARRIER TERMINAL OR CARGO RAMP CTC RAMP 130.90 PRIOR TO PUSH.",
+          "enabled": false
+        },
+		        {
+          "description": "SPLIT RAMP OPEN",
+          "ordinal": 3,
           "text": "CVG RAMP CONTROL IN USE. ACFT AT AIR CARRIER TERMINAL CTC RAMP 130.90 PRIOR TO PUSH. ACFT AT CARGO RAMP CTC RAMP 130.50 PRIOR TO PUSH.",
           "enabled": false
         },
         {
           "description": "RAMP CLOSED",
-          "ordinal": 2,
+          "ordinal": 1,
           "text": "CVG RAMP TOWER CLOSED. CTC ATC AT AIR CARRIER SPOTS 2, 3, 10, DHL SPOTS 52, 54, 55, AMAZON SPOT 75.",
           "enabled": true
         },
         {
           "description": "WINDSHEAR ADZYS",
-          "ordinal": 3,
+          "ordinal": 4,
           "text": "WIND SHEAR ADZYS IN EFCT.",
           "enabled": false
         },
         {
           "description": "SIGMETS/CWA",
-          "ordinal": 4,
+          "ordinal": 5,
           "text": "SIGMETS/CWA IN EFCT. CTC FSS FOR INFO.",
           "enabled": false
         }
@@ -393,26 +399,32 @@
       "airportConditionDefinitions": [],
       "notamDefinitions": [
         {
-          "description": "",
-          "ordinal": 1,
-          "text": "CVG RAMP CONTROL IN USE. CONTACT RAMP CONTROL ON 130.9 WHEN INSTRUCTED OR WHEN APPROACHING RAMP.",
+          "description": "COMBINED RAMP OPEN",
+          "ordinal": 2,
+          "text": "CVG RAMP CONTROL IN USE. CTC RAMP CONTROL ON 130.90 WHEN INSTRUCTED OR WHEN APPROACHING RAMP.",
+          "enabled": false
+        },
+		{
+          "description": "SPLIT RAMP OPEN",
+          "ordinal": 3,
+          "text": "CVG RAMP CONTROL IN USE. UNLESS INSTRUCTED, CTC RAMP CONTROL ON 130.90 WHEN APPROACHING TERMINAL OR 130.50 WHEN APPROACHING CARGO RAMP.",
           "enabled": false
         },
         {
-          "description": "",
-          "ordinal": 2,
+          "description": "RAMP CLOSED",
+          "ordinal": 1,
           "text": "RAMP CONTROL NOT IN USE.",
           "enabled": true
         },
         {
-          "description": "",
-          "ordinal": 3,
+          "description": "WINDSHEAR ADZYS",
+          "ordinal": 4,
           "text": "WIND SHEAR ADZYS IN EFCT.",
           "enabled": false
         },
         {
-          "description": "",
-          "ordinal": 4,
+          "description": "SIGMETS/CWA",
+          "ordinal": 5,
           "text": "SIGMETS/CWA IN EFCT. CTC FSS FOR INFO. ",
           "enabled": false
         }

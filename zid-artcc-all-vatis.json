@@ -4945,7 +4945,7 @@
       "contractions": [],
       "airportConditionDefinitions": [],
       "notamDefinitions": [
-{
+        {
           "description": "COMBINED RAMP OPEN",
           "ordinal": 2,
           "text": "CVG RAMP CONTROL IN USE. ACFT AT AIR CARRIER TERMINAL OR CARGO RAMP CTC RAMP 130.90 PRIOR TO PUSH.",
@@ -4972,7 +4972,7 @@
         {
           "description": "SIGMETS/CWA",
           "ordinal": 5,
-          "text": "SIGMETS/CWA IN EFCT. CTC FSS FOR INFO. ",
+          "text": "SIGMETS/CWA IN EFCT. CTC FSS FOR INFO.",
           "enabled": false
         }
       ],
@@ -5253,7 +5253,7 @@
       "contractions": [],
       "airportConditionDefinitions": [],
       "notamDefinitions": [
-        {
+            {
           "description": "COMBINED RAMP OPEN",
           "ordinal": 2,
           "text": "CVG RAMP CONTROL IN USE. CTC RAMP CONTROL ON 130.90 WHEN INSTRUCTED OR WHEN APPROACHING RAMP.",
@@ -5280,7 +5280,7 @@
         {
           "description": "SIGMETS/CWA",
           "ordinal": 5,
-          "text": "SIGMETS/CWA IN EFCT. CTC FSS FOR INFO.",
+          "text": "SIGMETS/CWA IN EFCT. CTC FSS FOR INFO. ",
           "enabled": false
         }
       ],

@@ -28,7 +28,7 @@
           "id": "96a29b34-efa0-4b17-8eae-0bddcf21d984",
           "name": "NORTH+27",
           "airportConditions": "DEPG RWY 27, RWY 36R. ALL AIRCRAFT SHALL READBACK RUNWAY HOLD SHORT INSTRUCTION.",
-          "notams": "RWY 18C/36C CLSD. BIRD ACTIVITY VCNTY ARPT.",
+          "notams": "BIRD ACTIVITY VCNTY ARPT.",
           "template": "CINCINATTI NORTHERN KENTUCKY INTERNATIONAL AIRPORT DEPARTURE INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false
@@ -38,7 +38,7 @@
           "id": "5bf70a09-f19e-4e72-8595-b85d691a8309",
           "name": "SOUTH+27",
           "airportConditions": "DEPG RWY 27, RWY 18L. ALL AIRCRAFT SHALL READBACK RUNWAY HOLD SHORT INSTRUCTION.",
-          "notams": "RWY 18C/36C CLSD. BIRD ACTIVITY VCNTY ARPT.",
+          "notams": "BIRD ACTIVITY VCNTY ARPT.",
           "template": "CINCINATTI NORTHERN KENTUCKY INTERNATIONAL AIRPORT DEPARTURE INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false
@@ -48,7 +48,7 @@
           "id": "e3f60628-fb77-4895-a59e-3b5afc77d245",
           "name": "NORTH",
           "airportConditions": "DEPG RWY 36R. ALL AIRCRAFT SHALL READBACK RUNWAY HOLD SHORT INSTRUCTION.",
-          "notams": "RWY 18C/36C CLSD. BIRD ACTIVITY VCNTY ARPT.",
+          "notams": "BIRD ACTIVITY VCNTY ARPT.",
           "template": "CINCINATTI NORTHERN KENTUCKY INTERNATIONAL AIRPORT DEPARTURE INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false
@@ -58,7 +58,7 @@
           "id": "beca0746-ab98-404c-9efc-31af06c91d2c",
           "name": "SOUTH",
           "airportConditions": "DEPG RWY 18L. ALL AIRCRAFT SHALL READBACK RUNWAY HOLD SHORT INSTRUCTION.",
-          "notams": "RWY 18C/36C CLSD. BIRD ACTIVITY VCNTY ARPT.",
+          "notams": "BIRD ACTIVITY VCNTY ARPT.",
           "template": "CINCINATTI NORTHERN KENTUCKY INTERNATIONAL AIRPORT DEPARTURE INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false
@@ -68,7 +68,7 @@
           "id": "fb585b99-9571-42da-bc45-2696e02ebb73",
           "name": "WEST",
           "airportConditions": "DEPG RWY 27. ALL AIRCRAFT SHALL READBACK RUNWAY HOLD SHORT INSTRUCTION.",
-          "notams": "RWY 18C/36C CLSD. BIRD ACTIVITY VCNTY ARPT.",
+          "notams": "BIRD ACTIVITY VCNTY ARPT.",
           "template": "CINCINATTI NORTHERN KENTUCKY INTERNATIONAL AIRPORT DEPARTURE INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false
@@ -78,7 +78,7 @@
           "id": "1688c385-6049-48f0-9422-934ea6813b9d",
           "name": "EAST",
           "airportConditions": "DEPG RWY 9. ALL AIRCRAFT SHALL READBACK RUNWAY HOLD SHORT INSTRUCTION.",
-          "notams": "RWY 18C/36C CLSD. BIRD ACTIVITY VCNTY ARPT.",
+          "notams": "BIRD ACTIVITY VCNTY ARPT.",
           "template": "CINCINATTI NORTHERN KENTUCKY INTERNATIONAL AIRPORT DEPARTURE INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false
@@ -357,8 +357,8 @@
         {
           "id": "042ba79c-e450-4402-8078-ec1db6008ce9",
           "name": "NORTH",
-          "airportConditions": "EXPECT ILS APPROACH TO RWY 36R. ALL AIRCRAFT SHALL READBACK RUNWAY HOLD SHORT INSTRUCTION.",
-          "notams": "RWY 18C/36C CLSD. BIRD ACTIVITY VCNTY ARPT.",
+          "airportConditions": "SIMUL APPROACHES IN USE. EXPECT ILS APPROACH TO RWY 36R, RWY 36C. ALL AIRCRAFT SHALL READBACK RUNWAY HOLD SHORT INSTRUCTION.",
+          "notams": "BIRD ACTIVITY VCNTY ARPT.",
           "template": "CINCINATTI NORTHERN KENTUCKY INTERNATIONAL AIRPORT ARRIVAL INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false
@@ -367,8 +367,8 @@
         {
           "id": "9300b8cf-c94a-45da-ab0c-2c907aa86654",
           "name": "SOUTH",
-          "airportConditions": "EXPECT ILS APPROACH TO RWY 18L. ALL AIRCRAFT SHALL READBACK RUNWAY HOLD SHORT INSTRUCTION.",
-          "notams": "RWY 18C/36C CLSD. BIRD ACTIVITY VCNTY ARPT.",
+          "airportConditions": "SIMUL APPROACHES IN USE. EXPECT ILS APPROACH TO RWY 18L, RWY 18C. ALL AIRCRAFT SHALL READBACK RUNWAY HOLD SHORT INSTRUCTION.",
+          "notams": "BIRD ACTIVITY VCNTY ARPT.",
           "template": "CINCINATTI NORTHERN KENTUCKY INTERNATIONAL AIRPORT ARRIVAL INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false
@@ -378,7 +378,7 @@
           "id": "446837b9-56e9-4440-8cef-587afd74e7f3",
           "name": "EAST",
           "airportConditions": "EXPECT ILS APPROACH TO RWY 9. ALL AIRCRAFT SHALL READBACK RUNWAY HOLD SHORT INSTRUCTION.",
-          "notams": "RWY 18C/36C CLSD. BIRD ACTIVITY VCNTY ARPT.",
+          "notams": "BIRD ACTIVITY VCNTY ARPT.",
           "template": "CINCINATTI NORTHERN KENTUCKY INTERNATIONAL AIRPORT ARRIVAL INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false
@@ -388,7 +388,7 @@
           "id": "ee1f1286-73d8-4ffd-bf68-ebb729b5b0d5",
           "name": "WEST",
           "airportConditions": "EXPECT ILS APPROACH TO RWY 27. ALL AIRCRAFT SHALL READBACK RUNWAY HOLD SHORT INSTRUCTION.",
-          "notams": "RWY 18C/36C CLSD. BIRD ACTIVITY VCNTY ARPT.",
+          "notams": "BIRD ACTIVITY VCNTY ARPT.",
           "template": "CINCINATTI NORTHERN KENTUCKY INTERNATIONAL AIRPORT ARRIVAL INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false

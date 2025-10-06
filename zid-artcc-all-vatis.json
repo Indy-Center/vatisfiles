@@ -2452,7 +2452,7 @@
         {
           "id": "1a4a8860-0b14-448b-b4fc-6911f77fb369",
           "name": "23R (Runway 23L Closed)",
-          "airportConditions": "ILS RWY 23L APCH IN USE. CROSS RUNWAY OPERATIONS MAY BE IN EFFECT. ",
+          "airportConditions": "ILS RWY 23R APCH IN USE. CROSS RUNWAY OPERATIONS MAY BE IN EFFECT. ",
           "notams": "RWY 05R/23L CLSD.",
           "template": "INDIANAPOLIS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {

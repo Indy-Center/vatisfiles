@@ -2,7 +2,7 @@
   "name": "Indianapolis+ ATCT",
   "id": "635ae002-ff05-4c61-b7c6-ed19272a3aac",
   "updateURL": "https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/indianapolis-atct-vatis.json",
-  "updateSerial": 2025100402,
+  "updateSerial": 2025100501,
   "composites": [
     {
       "id": "6ea51b65-5793-44b7-b8eb-1ff967940866",
@@ -333,7 +333,7 @@
         {
           "id": "1a4a8860-0b14-448b-b4fc-6911f77fb369",
           "name": "23R (Runway 23L Closed)",
-          "airportConditions": "ILS RWY 23L APCH IN USE. CROSS RUNWAY OPERATIONS MAY BE IN EFFECT. ",
+          "airportConditions": "ILS RWY 23R APCH IN USE. CROSS RUNWAY OPERATIONS MAY BE IN EFFECT. ",
           "notams": "RWY 05R/23L CLSD.",
           "template": "INDIANAPOLIS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {

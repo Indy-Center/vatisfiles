@@ -2,7 +2,7 @@
   "name": "Cincinnati+ ATCT",
   "id": "18a107ce-36f1-46d3-8921-ba121701e1eb",
   "updateURL": "https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/cincinnati-atct-vatis.json",
-  "updateSerial": 2025062300,
+  "updateSerial": 2025101900,
   "composites": [
     {
       "id": "a9d067bd-d593-427a-914c-88b3aad23498",
@@ -667,7 +667,7 @@
         {
           "id": "f65f81c0-5ed8-45ed-a123-f42575854f92",
           "name": "LUK",
-          "airportConditions": "EXPECT ILS APCH. LANDING AND DEPARTING RWY 21L.",
+          "airportConditions": "EXPECT ILS APCH. LANDING AND DEPARTING RWY 21.",
           "template": "LUNKEN TOWER ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false

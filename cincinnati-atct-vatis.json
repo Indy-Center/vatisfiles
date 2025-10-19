@@ -667,7 +667,7 @@
         {
           "id": "f65f81c0-5ed8-45ed-a123-f42575854f92",
           "name": "LUK",
-          "airportConditions": "EXPECT ILS APCH. LANDING AND DEPARTING RWY 21L.",
+          "airportConditions": "EXPECT ILS APCH. LANDING AND DEPARTING RWY 21.",
           "template": "LUNKEN TOWER ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false

@@ -2438,36 +2438,6 @@
           "externalGenerator": {
             "enabled": false
           }
-        },
-        {
-          "id": "ee8609ae-fe11-4285-9734-def7ac2e1470",
-          "name": "5L (Runway 05R Closed)",
-          "airportConditions": "ILS RWY 5L APCH IN USE. CROSS RUNWAY OPERATIONS MAY BE IN EFFECT.",
-          "notams": "RWY 05R/23L CLSD.",
-          "template": "INDIANAPOLIS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
-          "externalGenerator": {
-            "enabled": false
-          }
-        },
-        {
-          "id": "1a4a8860-0b14-448b-b4fc-6911f77fb369",
-          "name": "23R (Runway 23L Closed)",
-          "airportConditions": "ILS RWY 23R APCH IN USE. CROSS RUNWAY OPERATIONS MAY BE IN EFFECT. ",
-          "notams": "RWY 05R/23L CLSD.",
-          "template": "INDIANAPOLIS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
-          "externalGenerator": {
-            "enabled": false
-          }
-        },
-        {
-          "id": "1a4a8860-0b14-448b-b4fc-6911f77fb369",
-          "name": "32/14 (Runway 05R/23L Closed)",
-          "airportConditions": "ILS RWY 32 APCH IN USE. CROSS RUNWAY OPERATIONS MAY BE IN EFFECT. ",
-          "notams": "RWY 05R/23L CLSD.",
-          "template": "INDIANAPOLIS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
-          "externalGenerator": {
-            "enabled": false
-          }
         }
       ],
       "contractions": [],
@@ -3300,7 +3270,7 @@
         {
           "id": "f65f81c0-5ed8-45ed-a123-f42575854f92",
           "name": "LUK",
-          "airportConditions": "EXPECT ILS APCH. LANDING AND DEPARTING RWY 21L.",
+          "airportConditions": "EXPECT ILS APCH. LANDING AND DEPARTING RWY 21.",
           "template": "LUNKEN TOWER ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false

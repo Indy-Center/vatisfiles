@@ -2,7 +2,7 @@
   "name": "Columbus+ ATCT",
   "id": "c265973d-2ef8-4a59-99f1-9381d3a309bb",
   "updateURL":"https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/columbus-atct-vatis.json",
-  "updateSerial":2025040602,
+  "updateSerial":2025110100,
   "composites": [
     {
       "id": "f60cffab-90e7-4c68-afef-1179ad73cc4a",
@@ -292,26 +292,6 @@
           "name": "West",
           "airportConditions": "ILS, RWY 28L, AND, ILS, RWY 28R, SIMUL APCH IN USE.",
           "notams": "BIRD ACVTY VC CMH. READBACK ALL RWY HOLD SHORT INSTRUCTIONS.",
-          "template": "JOHN GLENN COLUMBUS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
-          "externalGenerator": {
-            "enabled": false
-            }
-          },
-          {
-          "id": "f91e6f1e-df31-4d49-8c22-ad1bf1b7a38c",
-          "name": "East Runway 10L Closed",
-          "airportConditions": "ILS, RWY 10R, APCH IN USE.",
-          "notams": "RWY 10L, 28R CLSD. BIRD ACVTY VC CMH. READBACK ALL RWY HOLD SHORT INSTRUCTIONS.",
-          "template": "JOHN GLENN COLUMBUS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
-          "externalGenerator": {
-            "enabled": false
-          }
-        },
-        {
-          "id": "a50d5f3f-4b29-4da7-8006-25bc07353e1c",
-          "name": "West Runway 28R Closed",
-          "airportConditions": "ILS, RWY 28L, APCH IN USE.",
-          "notams": "RWY 10L, 28R CLSD. BIRD ACVTY VC CMH. READBACK ALL RWY HOLD SHORT INSTRUCTIONS.",
           "template": "JOHN GLENN COLUMBUS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false
@@ -1898,3 +1878,4 @@
     }
   ]
 }
+

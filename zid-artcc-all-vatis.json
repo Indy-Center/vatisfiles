@@ -1893,6 +1893,12 @@
           "text": "LAND AND HOLD SHORT OPERATIONS IN EFFECT.",
           "enabled": false
         }
+        {
+          "description": "PUMPKIN PIE AND PATTERNS",
+          "ordinal": 3,
+          "text": "VISIT ALL FOUR FEATURED AIRPORTS FOR A SPECIAL INDY CENTER DISCORD ROLE.",
+          "enabled": false
+        }
       ],
       "atisFormat": {
         "observationTime": {
@@ -2445,6 +2451,12 @@
           "description": "WINDSHEAR ADZYS",
           "ordinal": 4,
           "text": "WIND SHEAR ADZYS IN EFCT.",
+          "enabled": false
+        },
+        {
+          "description": "PUMPKIN PIE AND PATTERNS",
+          "ordinal": 5,
+          "text": "VISIT ALL FOUR FEATURED AIRPORTS FOR A SPECIAL INDY CENTER DISCORD ROLE.",
           "enabled": false
         }
       ],

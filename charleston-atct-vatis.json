@@ -2,7 +2,7 @@
   "name": "Charleston ATCT",
   "id": "d083f3e6-9cb4-4d76-ae14-158f363e4e3c",
   "updateURL":"https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/charleston-atct-vatis.json",
-  "updateSerial":2024122401,
+  "updateSerial":2026012801,
   "composites": [
     {
       "id": "7fc81e65-ec45-4a2f-acb6-a54698e6f0a5",
@@ -284,4 +284,5 @@
     }
   ]
 }
+
 

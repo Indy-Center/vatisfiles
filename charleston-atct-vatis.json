@@ -62,7 +62,7 @@
         },
         {
           "description": "MOUNTAINS TIL MORNING",
-          "ordinal": 2,
+          "ordinal": 3,
           "text": "Join discord.indy.center to play flying bingo during tonight’s event for a chance to win prizes from Just Flight",
           "enabled": false
         }
@@ -284,5 +284,6 @@
     }
   ]
 }
+
 
 

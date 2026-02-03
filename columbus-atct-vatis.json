@@ -2,7 +2,7 @@
   "name": "Columbus+ ATCT",
   "id": "c265973d-2ef8-4a59-99f1-9381d3a309bb",
   "updateURL": "https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/columbus-atct-vatis.json",
-  "updateSerial": 2025112400,
+  "updateSerial": 2026020300,
   "composites": [
     {
       "id": "f60cffab-90e7-4c68-afef-1179ad73cc4a",
@@ -1111,26 +1111,6 @@
           "id": "26895d46-9497-418d-87c1-a915601848f4",
           "name": "5L/R",
           "airportConditions": "EXPECT ILS OR RNAV APCH. LANDING AND DEPARTING RWY 5L AND 5R.",
-          "notams": "RWY 5L CLSD TO HEAVY ACFT OPS. CTC GND CON FOR CLNC PRIOR TO PUSHBACK ON CARGO RAMP 2.",
-          "template": "RICKENBACKER TOWER ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
-          "externalGenerator": {
-            "enabled": false
-          }
-        },
-        {
-          "id": "751c5eb6-b213-4d72-ab0e-76a8c6f51efe",
-          "name": "23L - Runway 23R Closed",
-          "airportConditions": "EXPECT ILS OR RNAV APCH. LANDING AND DEPARTING RWY 23L.",
-          "notams": "RWY 23R CLSD TO HEAVY ACFT OPS. CTC GND CON FOR CLNC PRIOR TO PUSHBACK ON CARGO RAMP 2.",
-          "template": "RICKENBACKER TOWER ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
-          "externalGenerator": {
-            "enabled": false
-          }
-        },
-        {
-          "id": "26895d46-9497-418d-87c1-a915601848f4",
-          "name": "5R - Runway 5L Closed",
-          "airportConditions": "EXPECT ILS OR RNAV APCH. LANDING AND DEPARTING RWY 5R.",
           "notams": "RWY 5L CLSD TO HEAVY ACFT OPS. CTC GND CON FOR CLNC PRIOR TO PUSHBACK ON CARGO RAMP 2.",
           "template": "RICKENBACKER TOWER ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {

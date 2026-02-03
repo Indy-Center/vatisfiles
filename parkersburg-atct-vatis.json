@@ -2,7 +2,7 @@
   "name": "Parkersburg ATCT",
   "id": "8a62f058-50ae-4fbb-bebc-c7c250427351",
   "updateURL": "https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/parkersburg-atct-vatis.json",
-  "updateSerial": 2026012802,
+  "updateSerial": 2026010300,
   "composites": [
     {
       "id": "f1634c1d-f888-4a98-818e-af9ffd76a6af",
@@ -50,12 +50,6 @@
           "description": "WINDSHEAR ADZYS",
           "ordinal": 1,
           "text": "WIND SHEAR ADZYS IN EFCT.",
-          "enabled": false
-        },
-        {
-          "description": "MOUNTAINS TIL MORNING",
-          "ordinal": 2,
-          "text": "Join discord.indy.center to play flying bingo during tonight’s event for a chance to win prizes from Just Flight",
           "enabled": false
         }
       ],

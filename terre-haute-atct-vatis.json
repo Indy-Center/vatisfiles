@@ -2,7 +2,7 @@
   "name": "Terre Haute ATCT",
   "id": "c3259bc6-451c-45d5-815b-a9e02bc8892d",
   "updateURL": "https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/terre-haute-atct-vatis.json",
-  "updateSerial": 2025112402,
+  "updateSerial": 2026020300,
   "composites": [
     {
       "id": "67e251d8-98f4-4ba0-88f6-3643c84b6ddf",
@@ -54,12 +54,6 @@
           "description": "LAHSO",
           "ordinal": 2,
           "text": "LAND AND HOLD SHORT OPERATIONS IN EFFECT.",
-          "enabled": false
-        },
-        {
-          "description": "PUMPKIN PIE AND PATTERNS",
-          "ordinal": 3,
-          "text": "VISIT ALL FOUR FEATURED AIRPORTS FOR A SPECIAL INDY CENTER DISCORD ROLE.",
           "enabled": false
         }
       ],

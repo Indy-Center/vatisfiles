@@ -10,7 +10,7 @@
       "identifier": "KCVG",
       "atisType": "Departure",
       "codeRange": {
-        "low": "A",
+        "low": "N",
         "high": "Z"
       },
       "frequency": 135300000,
@@ -341,7 +341,7 @@
       "atisType": "Arrival",
       "codeRange": {
         "low": "A",
-        "high": "Z"
+        "high": "M"
       },
       "frequency": 134375000,
       "atisVoice": {

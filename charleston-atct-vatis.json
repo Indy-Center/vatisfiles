@@ -2,7 +2,7 @@
   "name": "Charleston ATCT",
   "id": "d083f3e6-9cb4-4d76-ae14-158f363e4e3c",
   "updateURL": "https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/charleston-atct-vatis.json",
-  "updateSerial": 2026012802,
+  "updateSerial": 2026010300,
   "composites": [
     {
       "id": "7fc81e65-ec45-4a2f-acb6-a54698e6f0a5",
@@ -58,12 +58,6 @@
           "description": "WINDSHEAR ADZYS",
           "ordinal": 2,
           "text": "WIND SHEAR ADZYS IN EFCT.",
-          "enabled": false
-        },
-        {
-          "description": "MOUNTAINS TIL MORNING",
-          "ordinal": 3,
-          "text": "Join discord.indy.center to play flying bingo during tonight’s event for a chance to win prizes from Just Flight",
           "enabled": false
         }
       ],

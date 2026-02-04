@@ -347,6 +347,18 @@
           "ordinal": 4,
           "text": "WIND SHEAR ADZYS IN EFCT.",
           "enabled": false
+        },
+        {
+          "description": "RAMP OPEN",
+          "ordinal": 5,
+          "text": "WIND SHEAR ADZYS IN EFCT.",
+          "enabled": false
+        },
+        {
+          "description": "RAMP CLOSED",
+          "ordinal": 6,
+          "text": "WIND SHEAR ADZYS IN EFCT.",
+          "enabled": false
         }
       ],
       "atisFormat": {

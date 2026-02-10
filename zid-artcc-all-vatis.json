@@ -2393,7 +2393,6 @@
           "id": "e728ee39-212a-40f7-983b-f0ee971dad6f",
           "name": "23L/R",
           "airportConditions": "PARL ILS RWY 23L AND ILS RWY 23R APCH IN USE. DEPG RWYS 23L, 23R. CROSS RUNWAY OPERATIONS MAY BE IN EFFECT.",
-          "notams": "HIWAS.",
           "template": "INDIANAPOLIS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false
@@ -2403,7 +2402,6 @@
           "id": "ee8609ae-fe11-4285-9734-def7ac2e1470",
           "name": "5L/R",
           "airportConditions": "PARL ILS RWY 5L AND ILS RWY 5R APCH IN USE. DEPG RWYS 5L, 5R. CROSS RUNWAY OPERATIONS MAY BE IN EFFECT.",
-          "notams": "HIWAS.",
           "template": "INDIANAPOLIS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false
@@ -2413,7 +2411,6 @@
           "id": "1a4a8860-0b14-448b-b4fc-6911f77fb369",
           "name": "32/14",
           "airportConditions": "ILS RWY 32 APCH IN USE. CROSS RUNWAY OPERATIONS MAY BE IN EFFECT. ",
-          "notams": "HIWAS.",
           "template": "INDIANAPOLIS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false
@@ -2446,6 +2443,18 @@
           "ordinal": 4,
           "text": "WIND SHEAR ADZYS IN EFCT.",
           "enabled": false
+        },
+        {
+          "description": "RAMP OPEN",
+          "ordinal": 5,
+          "text": "FEDEX RAMP CONTROL OPEN. AC DEPARTING FEDEX RAMP CTC RAMP CONTROL 130.80 PRIOR TO PUSHBACK. AC ARRIVING FEDEX RAMP CTC RAMP CONTROL AFTER LANDING FOR ENTRY SPOT ASSIGNMENT. VISIT HTTP://AIRPORTS.INDY.CENTER/IND.",
+          "enabled": false
+        },
+        {
+          "description": "RAMP CLOSED",
+          "ordinal": 6,
+          "text": "FEDEX RAMP CONTROL CLOSED. AC AT FEDEX RAMP CTC ATC AT EXIT POINT WHEN READY TO TAXI.",
+          "enabled": true
         }
       ],
       "atisFormat": {
@@ -2980,7 +2989,7 @@
         {
           "description": "RAMP OPEN",
           "ordinal": 1,
-          "text": "UPS RAMP CONTROL IN USE. ACFT AT UPS RAMP 1 THRU 11 CTC RAMP 129.95 PRIOR TO PUSH.",
+          "text": "UPS RAMP CONTROL IN USE. ACFT AT UPS RAMP 1 THRU 11 CTC RAMP 129.95 PRIOR TO PUSH. VISIT HTTP://AIRPORTS.INDY.CENTER/SDF.",
           "enabled": false
         },
         {
@@ -4878,13 +4887,13 @@
         {
           "description": "COMBINED RAMP OPEN",
           "ordinal": 2,
-          "text": "CVG RAMP CONTROL IN USE. ACFT AT AIR CARRIER TERMINAL OR CARGO RAMP CTC RAMP 130.90 PRIOR TO PUSH.",
+          "text": "CVG RAMP CONTROL IN USE. ACFT AT AIR CARRIER TERMINAL OR CARGO RAMP CTC RAMP 130.90 PRIOR TO PUSH. VISIT HTTP://AIRPORTS.INDY.CENTER/CVG.",
           "enabled": false
         },
         {
           "description": "SPLIT RAMP OPEN",
           "ordinal": 3,
-          "text": "CVG RAMP CONTROL IN USE. ACFT AT AIR CARRIER TERMINAL CTC RAMP 130.90 PRIOR TO PUSH. ACFT AT CARGO RAMP CTC RAMP 130.50 PRIOR TO PUSH.",
+          "text": "CVG RAMP CONTROL IN USE. ACFT AT AIR CARRIER TERMINAL CTC RAMP 130.90 PRIOR TO PUSH. ACFT AT CARGO RAMP CTC RAMP 130.50 PRIOR TO PUSH. VISIT HTTP://AIRPORTS.INDY.CENTER/CVG.",
           "enabled": false
         },
         {
@@ -5186,13 +5195,13 @@
         {
           "description": "COMBINED RAMP OPEN",
           "ordinal": 2,
-          "text": "CVG RAMP CONTROL IN USE. CTC RAMP CONTROL ON 130.90 WHEN INSTRUCTED OR WHEN APPROACHING RAMP.",
+          "text": "CVG RAMP CONTROL IN USE. CTC RAMP CONTROL ON 130.90 WHEN INSTRUCTED OR WHEN APPROACHING RAMP. VISIT HTTP://AIRPORTS.INDY.CENTER/CVG.",
           "enabled": false
         },
         {
           "description": "SPLIT RAMP OPEN",
           "ordinal": 3,
-          "text": "CVG RAMP CONTROL IN USE. UNLESS INSTRUCTED, CTC RAMP CONTROL ON 130.90 WHEN APPROACHING TERMINAL OR 130.50 WHEN APPROACHING CARGO RAMP.",
+          "text": "CVG RAMP CONTROL IN USE. UNLESS INSTRUCTED, CTC RAMP CONTROL ON 130.90 WHEN APPROACHING TERMINAL OR 130.50 WHEN APPROACHING CARGO RAMP. VISIT HTTP://AIRPORTS.INDY.CENTER/CVG.",
           "enabled": false
         },
         {

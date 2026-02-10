@@ -2,7 +2,7 @@
   "name": "Louisville+ ATCT",
   "id": "0f90640a-7619-4972-8eb2-2313c171510e",
   "updateURL":"https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/louisville-atct-vatis.json",
-  "updateSerial":2025041102,
+  "updateSerial":2026021000,
   "composites": [
     {
       "id": "38ba90cb-bffa-463b-832b-083dae847125",
@@ -568,7 +568,7 @@
          {
           "description": "RAMP OPEN",
           "ordinal": 1,
-          "text": "UPS RAMP CONTROL IN USE. ACFT AT UPS RAMP 1 THRU 11 CTC RAMP 129.95 PRIOR TO PUSH.",
+          "text": "UPS RAMP CONTROL IN USE. ACFT AT UPS RAMP 1 THRU 11 CTC RAMP 129.95 PRIOR TO PUSH. VISIT HTTP://AIRPORTS.INDY.CENTER/SDF.",
           "enabled": false
         },
         {
@@ -817,3 +817,4 @@
     }
   ]
 }
+

@@ -2,7 +2,7 @@
   "name": "Indianapolis+ ATCT",
   "id": "635ae002-ff05-4c61-b7c6-ed19272a3aac",
   "updateURL": "https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/indianapolis-atct-vatis.json",
-  "updateSerial": 2026020300,
+  "updateSerial": 2026021000,
   "composites": [
     {
       "id": "6ea51b65-5793-44b7-b8eb-1ff967940866",
@@ -358,7 +358,7 @@
           "description": "RAMP CLOSED",
           "ordinal": 6,
           "text": "FEDEX RAMP CONTROL CLOSED. AC AT FEDEX RAMP CTC ATC AT EXIT POINT WHEN READY TO TAXI.",
-          "enabled": false
+          "enabled": true
         }
       ],
       "atisFormat": {

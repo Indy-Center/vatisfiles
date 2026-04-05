@@ -805,7 +805,7 @@
           "id": "f91e6f1e-df31-4d49-8c22-ad1bf1b7a38c",
           "name": "East",
           "airportConditions": "ILS, RWY 10L, AND, ILS, RWY 10R, SIMUL APCH IN USE.",
-          "notams": "BIRD ACVTY VC CMH. READBACK ALL RWY HOLD SHORT INSTRUCTIONS.",
+          "notams": "BIRD ACVTY VC CMH. READBACK ALL RWY HOLD SHORT INSTRUCTIONS. CMH SCENERY MAY NOT MATCH CHARTS SEE HTTP://AIRPORTS.INDY.CENTER/CMH",
           "template": "JOHN GLENN COLUMBUS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false
@@ -815,7 +815,7 @@
           "id": "a50d5f3f-4b29-4da7-8006-25bc07353e1c",
           "name": "West",
           "airportConditions": "ILS, RWY 28L, AND, ILS, RWY 28R, SIMUL APCH IN USE.",
-          "notams": "BIRD ACVTY VC CMH. READBACK ALL RWY HOLD SHORT INSTRUCTIONS.",
+          "notams": "BIRD ACVTY VC CMH. READBACK ALL RWY HOLD SHORT INSTRUCTIONS. CMH SCENERY MAY NOT MATCH CHARTS SEE HTTP://AIRPORTS.INDY.CENTER/CMH",
           "template": "JOHN GLENN COLUMBUS INTERNATIONAL AIRPORT ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false

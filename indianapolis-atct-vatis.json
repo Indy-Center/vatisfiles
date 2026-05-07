@@ -2,7 +2,7 @@
   "name": "Indianapolis+ ATCT",
   "id": "635ae002-ff05-4c61-b7c6-ed19272a3aac",
   "updateURL": "https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/indianapolis-atct-vatis.json",
-  "updateSerial": 2026021001,
+  "updateSerial": 2026060600,
   "composites": [
     {
       "id": "6ea51b65-5793-44b7-b8eb-1ff967940866",
@@ -348,7 +348,7 @@
         {
           "description": "RAMP OPEN",
           "ordinal": 5,
-          "text": "FEDEX RAMP CONTROL OPEN. AC DEPARTING FEDEX RAMP CTC RAMP CONTROL 130.80 PRIOR TO PUSHBACK. AC ARRIVING FEDEX RAMP CTC RAMP CONTROL AFTER LANDING FOR ENTRY SPOT ASSIGNMENT. VISIT HTTP://AIRPORTS.INDY.CENTER/IND.",
+          "text": "FEDEX RAMP CONTROL OPEN. AC DEPARTING FEDEX RAMP CTC RAMP CONTROL 130.80 PRIOR TO PUSHBACK. AC ARRIVING FEDEX RAMP CTC RAMP CONTROL 130.80 WHEN AT ASSIGNED POINT. VISIT HTTP://AIRPORTS.INDY.CENTER/IND.",
           "enabled": false
         },
         {

@@ -2447,7 +2447,7 @@
         {
           "description": "RAMP OPEN",
           "ordinal": 5,
-          "text": "FEDEX RAMP CONTROL OPEN. AC DEPARTING FEDEX RAMP CTC RAMP CONTROL 130.80 PRIOR TO PUSHBACK. AC ARRIVING FEDEX RAMP CTC RAMP CONTROL AFTER LANDING FOR ENTRY SPOT ASSIGNMENT. VISIT HTTP://AIRPORTS.INDY.CENTER/IND.",
+          "text": "FEDEX RAMP CONTROL OPEN. AC DEPARTING FEDEX RAMP CTC RAMP CONTROL 130.80 PRIOR TO PUSHBACK. AC ARRIVING FEDEX RAMP CTC RAMP CONTROL 130.80 WHEN AT ASSIGNED POINT. VISIT HTTP://AIRPORTS.INDY.CENTER/IND.",
           "enabled": false
         },
         {
@@ -4885,21 +4885,21 @@
       "airportConditionDefinitions": [],
       "notamDefinitions": [
         {
-          "description": "COMBINED RAMP OPEN",
+          "description": "RAMP OPEN COMBINED",
           "ordinal": 2,
-          "text": "CVG RAMP CONTROL IN USE. ACFT AT AIR CARRIER TERMINAL OR CARGO RAMP CTC RAMP 130.90 PRIOR TO PUSH. VISIT HTTP://AIRPORTS.INDY.CENTER/CVG.",
+          "text": "CVG RAMP CONTROL IN USE. AC AT AIR CARRIER TERMINAL OR CARGO RAMP CTC RAMP 130.90 PRIOR TO PUSH. VISIT HTTP://AIRPORTS.INDY.CENTER/CVG.",
           "enabled": false
         },
         {
-          "description": "SPLIT RAMP OPEN",
+          "description": "RAMP OPEN ALL",
           "ordinal": 3,
-          "text": "CVG RAMP CONTROL IN USE. ACFT AT AIR CARRIER TERMINAL CTC RAMP 130.90 PRIOR TO PUSH. ACFT AT CARGO RAMP CTC RAMP 130.50 PRIOR TO PUSH. VISIT HTTP://AIRPORTS.INDY.CENTER/CVG.",
+          "text": "CVG RAMP CONTROL IN USE. AC AT AIR CARRIER TERMINAL CTC RAMP 130.90 PRIOR TO PUSH. ACFT AT AMAZON RAMP CTC RAMP 130.50 PRIOR TO PUSH. AC AT DHL RAMP CTC 129.47 PRIOR TO PUSH. VISIT HTTP://AIRPORTS.INDY.CENTER/CVG.",
           "enabled": false
         },
         {
           "description": "RAMP CLOSED",
           "ordinal": 1,
-          "text": "CVG RAMP TOWER CLOSED. CTC ATC AT AIR CARRIER SPOTS 2, 3, 10, DHL SPOTS 52, 54, 55, AMAZON SPOT 75.",
+          "text": "CVG RAMP TOWER CLOSED. CTC ATC AT AIR CARRIER SPOTS 2, 3, 10, DHL SPOTS 51, 52, 54, 55, AMAZON SPOT 75.",
           "enabled": true
         },
         {
@@ -5193,21 +5193,21 @@
       "airportConditionDefinitions": [],
       "notamDefinitions": [
         {
-          "description": "COMBINED RAMP OPEN",
+          "description": "RAMP OPEN COMBINED",
           "ordinal": 2,
-          "text": "CVG RAMP CONTROL IN USE. CTC RAMP CONTROL ON 130.90 WHEN INSTRUCTED OR WHEN APPROACHING RAMP. VISIT HTTP://AIRPORTS.INDY.CENTER/CVG.",
+          "text": "CVG RAMP CONTROL IN USE. AC AT AIR CARRIER TERMINAL OR CARGO RAMP CTC 130.90 PRIOR TO ENTRY. VISIT HTTP://AIRPORTS.INDY.CENTER/CVG.",
           "enabled": false
         },
         {
-          "description": "SPLIT RAMP OPEN",
+          "description": "RAMP OPEN ALL",
           "ordinal": 3,
-          "text": "CVG RAMP CONTROL IN USE. UNLESS INSTRUCTED, CTC RAMP CONTROL ON 130.90 WHEN APPROACHING TERMINAL OR 130.50 WHEN APPROACHING CARGO RAMP. VISIT HTTP://AIRPORTS.INDY.CENTER/CVG.",
+          "text": "CVG RAMP CONTROL IN USE. AC AT AIR CARRIER TERMINAL CTC 130.90 PRIOR TO ENTRY. AC AT SPOT 54 or 75 CTC 130.37 PRIOR TO ENTRY. AC AT SPOT 76 CTC 130.50 PRIOR TO ENTRY. AC AT SPOTS 51, 52, OR 55 CTC 129.47 PRIOR TO ENTRY. VISIT HTTP://AIRPORTS.INDY.CENTER/CVG.",
           "enabled": false
         },
         {
           "description": "RAMP CLOSED",
           "ordinal": 1,
-          "text": "RAMP CONTROL NOT IN USE.",
+          "text": "RAMP CONTROL CLOSED.",
           "enabled": true
         },
         {

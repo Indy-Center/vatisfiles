@@ -1,8 +1,8 @@
 {
   "name": "Lexington ATCT",
   "id": "01415b1c-9814-48a7-99e3-893cea73c972",
-  "updateURL":"https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/lexington-atct-vatis.json",
-  "updateSerial":2026110800,
+  "updateURL": "https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/lexington-atct-vatis.json",
+  "updateSerial": 2026110801,
   "composites": [
     {
       "id": "269daca2-16dc-48f1-9aa2-132ff53d3968",

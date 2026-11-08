@@ -2,7 +2,7 @@
   "name": "Lexington ATCT",
   "id": "01415b1c-9814-48a7-99e3-893cea73c972",
   "updateURL":"https://raw.githubusercontent.com/Indy-Center/vatisfiles/refs/heads/main/lexington-atct-vatis.json",
-  "updateSerial":2024122001,
+  "updateSerial":2026110800,
   "composites": [
     {
       "id": "269daca2-16dc-48f1-9aa2-132ff53d3968",
@@ -27,7 +27,7 @@
         {
           "id": "04c76392-5f4c-4396-923f-bd1bb40c2b27",
           "name": "4",
-          "airportConditions": "VISUAL APPROACH TO RUNWAY 4 IN USE. SIMULTANEOUS APPROACHES ARE BEING CONDUCTED TO CONVERGING RUNWAYS.",
+          "airportConditions": "VISUAL APPROACH TO RUNWAY 4 IN USE. SIMULTANEOUS APPROACHES ARE BEING CONDUCTED TO CONVERGING RUNWAYS. SURFACE AWARENESS INITIATIVE DISPLAY IN USE. OPERATE TRANSPONDERS WITH ALTITUDE REPORTING MODE AND ADS-B ENABLED ON ALL AIRPORT SURFACES",
           "template": "LEXINGTON TOWER ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false
@@ -36,7 +36,7 @@
         {
           "id": "b2188cc4-6aad-4a19-9506-8587db046e5f",
           "name": "22",
-          "airportConditions": "VISUAL APPROACH RUNWAY 22 IN USE.",
+          "airportConditions": "VISUAL APPROACH RUNWAY 22 IN USE. SURFACE AWARENESS INITIATIVE DISPLAY IN USE. OPERATE TRANSPONDERS WITH ALTITUDE REPORTING MODE AND ADS-B ENABLED ON ALL AIRPORT SURFACES ",
           "template": "LEXINGTON TOWER ATIS INFORMATION [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS] [CLOSING]",
           "externalGenerator": {
             "enabled": false
